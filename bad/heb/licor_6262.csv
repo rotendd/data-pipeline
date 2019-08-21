@@ -31,3 +31,4 @@ t_start,t_end,miu_old,miu_new,t_added,name,comment
 2018-02-19T00:01:00Z,2018-02-19T00:03:00Z,401.41,NA,2018-08-13T21:27:14Z,Ryan,NPT impacting std 1
 2018-02-26T00:01:00Z,2018-02-26T00:03:00Z,401.41,NA,2018-08-13T21:27:14Z,Ryan,NPT impacting std 1
 2018-03-28T00:00:50Z,2018-03-28T00:02:25Z,all,NA,2018-08-13T21:27:14Z,Ryan,Serial buffer issue on cal
+2019-08-20T20:30:00Z,2019-08-20T23:00:00Z,450.77,451.02,2019-08-21T15:29:00,Dustin,Laptop would not connect to data logger
