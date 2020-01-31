@@ -64,3 +64,4 @@ t_start,t_end,miu_old,miu_new,t_added,name,comment
 2018-03-23T17:16:55Z,2018-03-23T17:17:10Z,all,NA,2018-08-13T21:27:13Z,Ryan,One bad cal point
 2018-03-23T17:23:10Z,2018-03-23T17:25:00Z,all,NA,2018-08-13T21:27:13Z,Ryan,left Atm port closed for a bit
 2018-04-07T21:49:00Z,2018-04-09T20:33:30Z,all,NA,2018-08-13T21:27:13Z,Ryan,Poweroutage
+2020-01-31T17:50:00Z,2020-01-31T18:10:00Z,all,NA,2020-01-31T19:43:00Z,Dustin,Span check with no computer access
